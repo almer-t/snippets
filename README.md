@@ -5,5 +5,5 @@ See the License file for licensing terms.
 
 Suggestions and improvements welcome as always.
 
-- Almer.
+-- Almer.
 
